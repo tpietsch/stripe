@@ -1,5 +1,7 @@
 package com.solution.stripe;
 
-public interface StripeSolutionInterface {
+import java.util.List;
 
+public interface StripeSolutionInterface {
+    public List<String> parsedLanguageHeaders(String headerLanguages, List<String> serverAccepted);
 }
