@@ -1,4 +1,4 @@
-package com.example.stripe;
+package com.solution.stripe;
 
 public interface StripeSolutionInterface {
 
